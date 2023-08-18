@@ -121,6 +121,7 @@ transition: all 300ms ease;
     color: #6030b1;
     font-weight: bold;
     margin: 0 12px;
+    cursor: pointer;
     transition: all 300ms ease;
     
 }
